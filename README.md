@@ -3,7 +3,7 @@ Assignment 1 of ICS 475 </br>
 Given two DNA sequences of the same length, determine the number of mutations between the two sequences. </br>
 
 ### Instructions
-$ javac detectmutation.java
+$ javac detectmutation.java </br>
 $ java detectmutation
 
 ### Thought Process
